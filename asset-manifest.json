@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vegetarian-menu-calculator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/vegetarian-menu-calculator/static/js/main.4588a23f.chunk.js",
-    "main.js.map": "/vegetarian-menu-calculator/static/js/main.4588a23f.chunk.js.map",
+    "main.js": "/vegetarian-menu-calculator/static/js/main.57f2f895.chunk.js",
+    "main.js.map": "/vegetarian-menu-calculator/static/js/main.57f2f895.chunk.js.map",
     "runtime-main.js": "/vegetarian-menu-calculator/static/js/runtime-main.44c9bea2.js",
     "runtime-main.js.map": "/vegetarian-menu-calculator/static/js/runtime-main.44c9bea2.js.map",
     "static/js/2.2571d2ec.chunk.js": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js",
     "static/js/2.2571d2ec.chunk.js.map": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js.map",
     "index.html": "/vegetarian-menu-calculator/index.html",
-    "precache-manifest.dce705a8afb3eb393600a39986d6695b.js": "/vegetarian-menu-calculator/precache-manifest.dce705a8afb3eb393600a39986d6695b.js",
+    "precache-manifest.a55c3fe9a3f3103bb7de5886e52639da.js": "/vegetarian-menu-calculator/precache-manifest.a55c3fe9a3f3103bb7de5886e52639da.js",
     "service-worker.js": "/vegetarian-menu-calculator/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/vegetarian-menu-calculator/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.2571d2ec.chunk.js.LICENSE.txt": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.44c9bea2.js",
     "static/js/2.2571d2ec.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4588a23f.chunk.js"
+    "static/js/main.57f2f895.chunk.js"
   ]
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vegetarian-menu-calculator/precache-manifest.dce705a8afb3eb393600a39986d6695b.js"
+  "/vegetarian-menu-calculator/precache-manifest.a55c3fe9a3f3103bb7de5886e52639da.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26a6c7e1563360d3ffb13e8d6d2622d6",
+    "revision": "a88ffa30eb7b05a9d8add9687353bd40",
     "url": "/vegetarian-menu-calculator/index.html"
   },
   {
-    "revision": "9514d2b89353c733095a",
+    "revision": "6819c20b4acc95b3b7fe",
     "url": "/vegetarian-menu-calculator/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9514d2b89353c733095a",
-    "url": "/vegetarian-menu-calculator/static/js/main.4588a23f.chunk.js"
+    "revision": "6819c20b4acc95b3b7fe",
+    "url": "/vegetarian-menu-calculator/static/js/main.57f2f895.chunk.js"
   },
   {
     "revision": "619662534df8572127f3",
