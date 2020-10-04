@@ -5,6 +5,7 @@ on:
       - master
 jobs:
   deploy:
+    name: Master CI
     runs-on: ubuntu-latest
     strategy:
       matrix:
