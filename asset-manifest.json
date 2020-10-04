@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/vegetarian-menu-calculator/static/css/main.5f361e03.chunk.css",
-    "main.js": "/vegetarian-menu-calculator/static/js/main.57f2f895.chunk.js",
-    "main.js.map": "/vegetarian-menu-calculator/static/js/main.57f2f895.chunk.js.map",
+    "main.css": "/vegetarian-menu-calculator/static/css/main.40bfd70c.chunk.css",
+    "main.js": "/vegetarian-menu-calculator/static/js/main.c16a4a00.chunk.js",
+    "main.js.map": "/vegetarian-menu-calculator/static/js/main.c16a4a00.chunk.js.map",
     "runtime-main.js": "/vegetarian-menu-calculator/static/js/runtime-main.44c9bea2.js",
     "runtime-main.js.map": "/vegetarian-menu-calculator/static/js/runtime-main.44c9bea2.js.map",
     "static/js/2.2571d2ec.chunk.js": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js",
     "static/js/2.2571d2ec.chunk.js.map": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js.map",
     "index.html": "/vegetarian-menu-calculator/index.html",
-    "precache-manifest.a55c3fe9a3f3103bb7de5886e52639da.js": "/vegetarian-menu-calculator/precache-manifest.a55c3fe9a3f3103bb7de5886e52639da.js",
+    "precache-manifest.5ad3dd668ad76a5b607b124b492ae561.js": "/vegetarian-menu-calculator/precache-manifest.5ad3dd668ad76a5b607b124b492ae561.js",
     "service-worker.js": "/vegetarian-menu-calculator/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/vegetarian-menu-calculator/static/css/main.5f361e03.chunk.css.map",
+    "static/css/main.40bfd70c.chunk.css.map": "/vegetarian-menu-calculator/static/css/main.40bfd70c.chunk.css.map",
     "static/js/2.2571d2ec.chunk.js.LICENSE.txt": "/vegetarian-menu-calculator/static/js/2.2571d2ec.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/vegetarian-menu-calculator/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.44c9bea2.js",
     "static/js/2.2571d2ec.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.57f2f895.chunk.js"
+    "static/css/main.40bfd70c.chunk.css",
+    "static/js/main.c16a4a00.chunk.js"
   ]
 }
